@@ -23,3 +23,29 @@ This project is built for students, developers, and enthusiasts who want to **un
 
  And many more....
 ---
+
+
+## 🧠 Why Build From Scratch?
+
+Building models from scratch helps you:
+
+✅ Understand the math and intuition behind ML  
+✅ Learn how models optimize and generalize  
+✅ Develop better debugging and ML skills  
+✅ Prepare for ML interviews and research work
+
+---
+
+
+---
+
+### ✅ What to Replace
+| Placeholder               | Replace With |
+|--------------------------|--------------|
+| `krishpansara`          | Your GitHub username |
+| `krishpanasara9265@gmail.com`   | Your email |
+| `www.linkedin.com/in/krishpansara`    | Your LinkedIn profile |
+
+---
+
+Just share your repo URL or tell me your next step!
