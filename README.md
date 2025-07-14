@@ -17,8 +17,8 @@ This project is built for students, developers, and enthusiasts who want to **un
 | ✅ Decision Tree          | Classification   | ✔️ Completed |
 | ✅ Gradient descent       | Classification   | ✔️ Completed |
 | ✅ Random Forest          | Ensemble         | ✔️ Completed |
-| ⏳ K-Nearest Neighbors    | Classification   | In Progress  |
-| ⏳ Naive Bayes            | Classification   | In Progress  |
+| ✅ K-Nearest Neighbors    | Classification   | ✔️ Completed |
+| ✅ Naive Bayes            | Classification   | ✔️ Completed |
 | 🔜 Support Vector Machine | Classification   | Planned      |
 
  And many more....
