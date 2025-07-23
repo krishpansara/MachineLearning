@@ -36,9 +36,6 @@ Building models from scratch helps you:
 
 ---
 
-
----
-
 ### ✅ What to Replace
 | Placeholder               | Replace With |
 |--------------------------|--------------|
@@ -47,5 +44,3 @@ Building models from scratch helps you:
 | `www.linkedin.com/in/krishpansara`    | Your LinkedIn profile |
 
 ---
-
-Just share your repo URL or tell me your next step!
