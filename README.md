@@ -19,7 +19,7 @@ This project is built for students, developers, and enthusiasts who want to **un
 | ✅ Random Forest          | Ensemble         | ✔️ Completed |
 | ✅ K-Nearest Neighbors    | Classification   | ✔️ Completed |
 | ✅ Naive Bayes            | Classification   | ✔️ Completed |
-| 🔜 Support Vector Machine | Classification   | Planned      |
+| 🔜 Support Vector Machine | Classification   | ✔️ Completed |
 
  And many more....
 ---
@@ -36,9 +36,6 @@ Building models from scratch helps you:
 
 ---
 
-
----
-
 ### ✅ What to Replace
 | Placeholder               | Replace With |
 |--------------------------|--------------|
@@ -47,5 +44,3 @@ Building models from scratch helps you:
 | `www.linkedin.com/in/krishpansara`    | Your LinkedIn profile |
 
 ---
-
-Just share your repo URL or tell me your next step!
