@@ -37,10 +37,10 @@ Building models from scratch helps you:
 ---
 
 ### ✅ What to Replace
-| Placeholder               | Replace With |
-|--------------------------|--------------|
-| `krishpansara`          | Your GitHub username |
-| `krishpanasara9265@gmail.com`   | Your email |
-| `www.linkedin.com/in/krishpansara`    | Your LinkedIn profile |
+| Placeholder               | 
+|--------------------------|
+| `krishpansara`          |
+| `krishpanasara9265@gmail.com`   |
+| `www.linkedin.com/in/krishpansara`    |
 
 ---
